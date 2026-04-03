@@ -1244,7 +1244,7 @@ textarea { resize: vertical; min-height: 110px; line-height: 1.65; }
   border-radius: var(--radius);
   aspect-ratio: 4/3;
   object-fit: cover;
-  object-position: center top;
+  object-position: center 30%;
 }
 .photo-cap {
   font-size: 0.78rem !important;
